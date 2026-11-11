@@ -6,7 +6,7 @@ A responsive five-page portfolio starter based on the supplied November 2, 2026 
 - HTML: separate page files
 - CSS: `styles/main.css`
 - TypeScript: `src/main.ts` and `src/projects.ts`
-- Vite: local development and multi-page production build
+- Vercel: deployment
 
 ## Run locally
 1. Install Node.js (LTS).
