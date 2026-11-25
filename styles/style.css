@@ -53,7 +53,7 @@ a {
     border-bottom: 1px solid var(--border);
     position: sticky;
     top: 0;
-    z-index: 100;
+    z-index: 1000;
 }
 
 .menu-toggle {
@@ -2080,7 +2080,7 @@ a {
     .navbar {
         height: auto;
         min-height: 70px;
-        position: relative;
+        position: sticky;
         flex-wrap: wrap;
         padding: 12px 5%;
         gap: 12px;
